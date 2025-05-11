@@ -17,10 +17,7 @@
 
 <br>
 
-<img
-    src = 'https://user-images.githubusercontent.com/1521451/34072014-4451dbf6-e280-11e7-90a7-32ad1f313541.PNG'
-    width = 800
-/>
+
 
 </div>
 
